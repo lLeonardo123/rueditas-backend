@@ -1,0 +1,11 @@
+1;ASR-1421;KIA;Sportage;5;26000;Negro
+2;ABC-1234;Toyota;Corolla;5;22000;Blanco
+3;XYZ-5678;Honda;Civic;5;24000;Rojo
+4;DEF-9012;Ford;Focus;5;21000;Azul
+5;GHI-3456;Chevrolet;Malibu;5;23000;Gris
+6;JKL-7890;Nissan;Altima;5;25000;Plata
+7;MNO-1357;Hyundai;Elantra;5;23500;Verde
+8;PQR-2468;Mazda;CX-5;5;27000;Blanco
+9;STU-3579;Subaru;Outback;5;28000;Rojo
+10;VWX-4680;Volkswagen;Jetta;5;21500;Negro
+11;YZA-5791;Mercedes-Benz;C-Class;5;35000;Plata
